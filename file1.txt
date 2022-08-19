@@ -1,1 +1,2 @@
 Here is my file file1.txt
+I am editing it with the nano editor!
