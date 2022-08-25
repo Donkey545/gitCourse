@@ -1,1 +1,1 @@
-File four is the fourth file.
+I am changing the whole content of file4.txt
